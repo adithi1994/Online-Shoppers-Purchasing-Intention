@@ -32,9 +32,9 @@ This project analyzes behavioral data of online shoppers to predict whether a se
    - Silhouette scores for validation
 
 ## 🧠 Results
-- Best model(s): [To be filled based on your results]
-- ROC-AUC achieved: [Insert ROC-AUC score]
-- Insights: [E.g., Product-related duration and PageValues are strong predictors]
+- Best model(s): Random Forest,Gradient Boosting	
+- ROC-AUC achieved: 0.917,0.926
+  
 
 ## 📁 Project Structure
 - `Online_shoppers.ipynb` – Main Jupyter Notebook
